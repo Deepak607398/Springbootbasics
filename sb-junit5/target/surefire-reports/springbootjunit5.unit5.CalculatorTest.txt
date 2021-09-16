@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: springbootjunit5.unit5.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.795 s - in springbootjunit5.unit5.CalculatorTest
